@@ -53,8 +53,8 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 - [Html]
-- [Css](https://sass-lang.com/)
-- [JavaScript](https://www.chartjs.org/docs/latest/)
+- [Css]
+- [JavaScript]
 
 
 
