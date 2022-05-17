@@ -1,4 +1,4 @@
-# Guess-my-number
+# Guess my number
 
 <div id="top"></div>
 
@@ -99,7 +99,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [@Luigi Lesca](https://www.linkedin.com/in/luigi-lesca/) - luigilesca@hotmail.it
 
 Project Repository: [Guess my number
-](https://github.com/luigilesca/Guess-my-number.git)
+](https://github.com/luigilesca/Guess-my-number-js.git)
 
 Project Website: [guess-my-number-java-script - Netlify](https://guess-my-number-java-script.netlify.app/)
 
